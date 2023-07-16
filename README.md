@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zak-hc&label=Profile%20views&color=0e75b6&style=flat" alt="zak-hc" /> </p>
 
 
-<p align="left"> <a href="https://twitter.com/zhaciz" target="blank"><img src="https://img.shields.io/twitter/follow/zhaciz?logo=twitter&style=for-the-badge" alt="zhaciz" /></a> </p>
 
 - 🔭 I’m currently working on [python ptoject](https://github.com/Zak-hc/alx-higher_level_programming)
 
