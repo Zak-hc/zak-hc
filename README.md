@@ -9,19 +9,19 @@
 
 - 🌱 I’m currently learning **prog Alx-SE**
 
-- 👯 I’m looking to collaborate on [--](Not yet)
+- 👯 I’m looking to collaborate on (Not yet)
 
-- 🤝 I’m looking for help with [--](--)
+- 🤝 I’m looking for help in Data-Analysis
 
 - 👨‍💻 All of my projects are available at [https://github.com/Zak-hc](https://github.com/Zak-hc)
 
-- 📝 I regularly write articles on [--](--)
+- 📝 I regularly write articles on [Server X]
 
 - 💬 Ask me about **Data-Analysis**
 
 - 📫 How to reach me **zhaci001@gmail.com**
 
-- 📄 Know about my experiences [--](--)
+- 📄 Know about my experiences [ask for it]
 
 - ⚡ Fun fact **--**
 
