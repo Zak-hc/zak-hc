@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm zakaria</h1>
-<h3 align="center">A passionate frontend developer from Morocco</h3>
+<h1 align="center">Hi 👋, I'm Zakaria</h1>
+
+<h3 align="center">A passionate Moroccan developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zak-hc&label=Profile%20views&color=0e75b6&style=flat" alt="zak-hc" /> </p>
 
@@ -7,21 +8,19 @@
 
 - 🔭 I’m currently working on [python ptoject](https://github.com/Zak-hc/alx-higher_level_programming)
 
-- 🌱 I’m currently learning **prog Alx-SE**
+- 🌱 I’m currently learning **prog Alx-SE && prog Economic Analysis and Modeling**
 
-- 👯 I’m looking to collaborate on (Not yet)
+- 👯 I’m looking to collaborate on (CREDIT SCORING)
 
-- 🤝 I’m looking for help in Data-Analysis
+- 🤝 I’m looking for help in Data-Analysis && Dev
 
-- 👨‍💻 All of my projects are available at [https://github.com/Zak-hc](https://github.com/Zak-hc)
+- 👨‍💻 All of my projects are available at [https://github.com/Zak-hc?tab=repositories)
 
-- 📝 I regularly write articles on [Server X]
+- 📝 I'm regularly available in Discord =>  https://discord.gg/3C6sStPw
 
 - 💬 Ask me about **Data-Analysis**
 
 - 📫 How to reach me **zhaci001@gmail.com**
-
-- 📄 Know about my experiences [ask for it]
 
 - ⚡ Fun fact **--**
 
