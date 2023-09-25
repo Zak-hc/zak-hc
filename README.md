@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zakaria</h1>
 
-<h2 align="center">A passionate Moroccan developer </h2>
+<h2 align="center">A passionate Moroccan Statistical Programmer </h2>
 <h3 align="center"> <img src="https://tech.findmypast.com/images/network_graph.png" alt="zak-hc" /> </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zak-hc&label=Profile%20views&color=0e75b6&style=flat" alt="zak-hc" /> </p>
