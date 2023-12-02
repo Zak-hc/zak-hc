@@ -7,19 +7,19 @@
 
 
 
-- 🔭 I’m currently working on [python ptoject](https://github.com/Zak-hc/alx-higher_level_programming)
+- 🔭 I’m currently working on [python project](https://github.com/Zak-hc/alx-higher_level_programming) && (https://github.com/Zak-hc/Aji_tkhedem.com ) 
 
 - 🌱 I’m currently learning **prog Alx-SE && prog Economic Analysis and Modeling**
 
-- 👯 I’m looking to collaborate on (CREDIT SCORING)
+- 👯 I’m looking to collaborate on (CREDIT SCORING APP)
 
-- 🤝 I’m looking for help in Data-Analysis && Dev
+- 🤝 I’m looking for help in Dev 
 
 - 👨‍💻 All of my projects are available at [https://github.com/Zak-hc?tab=repositories)
 
-- 📝 I'm regularly available in Discord =>  https://discord.gg/3C6sStPw
+- 📝 Join our community in Discord server => https://discord.gg/naY4kP9rUW
 
-- 💬 Ask me about **Data-Analysis**
+- 💬 Ask me about **DevOps(SE)**
 
 - 📫 How to reach me **zhaci001@gmail.com**
 
