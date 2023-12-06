@@ -7,7 +7,8 @@
 
 
 
-- 🔭 I’m currently working on [python project](https://github.com/Zak-hc/alx-higher_level_programming) && (https://github.com/Zak-hc/Aji_tkhedem.com ) 
+- 🔭 I’m currently working on [python project](https://github.com/Zak-hc/alx-higher_level_programming) && (https://github.com/Zak-hc/Africanjobhub.com
+.com ) 
 
 - 🌱 I’m currently learning **prog Alx-SE && prog Economic Analysis and Modeling**
 
