@@ -15,9 +15,9 @@
 
 - 🤝 I’m looking for help in Dev 
 
-- 👨‍💻 All of my projects are available at [https://github.com/Zak-hc?tab=repositories)
+- 👨‍💻 All of my projects are available at **==>** https://github.com/Zak-hc?tab=repositories
 
-- 📝 Join our community in Discord server => https://discord.gg/naY4kP9rUW
+- 📝 Join our community in Discord server **==>** https://discord.gg/naY4kP9rUW
 
 - 💬 Ask me about **DevOps(SE)** && **CALL CENTER Sizing and Economic Models**
 
