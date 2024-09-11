@@ -7,12 +7,11 @@
 
 
 
-- 🔭 I’m currently working on [python project](https://github.com/Zak-hc/alx-higher_level_programming) && (https://github.com/Zak-hc/Africanjobhub.com
-.com ) 
+- 🔭 I’m currently working on my Self
 
-- 🌱 I’m currently learning **prog Alx-SE && prog Economic Analysis and Modeling**
+- 🌱 I’m currently learning and working on **Economic Analysis and Modeling**
 
-- 👯 I’m looking to collaborate on (CREDIT SCORING APP)
+- 👯 I’m looking to collaborate on Real Time APP for **Economic Modeling**
 
 - 🤝 I’m looking for help in Dev 
 
@@ -20,7 +19,7 @@
 
 - 📝 Join our community in Discord server => https://discord.gg/naY4kP9rUW
 
-- 💬 Ask me about **DevOps(SE)** && **CALL CENTER Sizing and Planning Models**
+- 💬 Ask me about **DevOps(SE)** && **CALL CENTER Sizing and Economic Models**
 
 - 📫 How to reach me **zhaci001@gmail.com**
 
