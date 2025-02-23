@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning and working on my Phd in **Economic Analysis and Modeling**
 
-- 👯 I’m looking to collaborate on Real Time APP for **Economic Modeling** for **EGC** model's && **machine learning** model's
+- 👯 I’m looking to collaborate on Real Time APP for **Economic Modeling** (**CGE** model's && **machine learning** model's)
 
 - 🤝 I’m looking for help in Dev 
 
