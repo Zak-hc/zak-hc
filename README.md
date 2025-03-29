@@ -21,9 +21,9 @@
 
 - 💬 Ask me about **DevOps(SE)** && **CALL CENTER Sizing** && **Economic Models** and **ML**
 
-- 📫 How to reach me **zhaci001@gmail.com**
+- 📫 How to reach me **Zhaci001@gmail.com**
 
-- ⚡ Fun fact **--**
+- ⚡ Fun fact **ChesS in The ParK**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
