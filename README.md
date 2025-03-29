@@ -19,7 +19,7 @@
 
 - 📝 Join our community in Discord server **==>** https://discord.gg/naY4kP9rUW
 
-- 💬 Ask me about **DevOps(SE)** && **CALL CENTER Sizing and Economic Models**
+- 💬 Ask me about **DevOps(SE)** && **CALL CENTER Sizing** && **Economic Models** and **ML**
 
 - 📫 How to reach me **zhaci001@gmail.com**
 
