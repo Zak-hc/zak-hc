@@ -4,7 +4,6 @@
 <h3 align="center"> <img src="https://tech.findmypast.com/images/network_graph.png" alt="zak-hc" /> </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zak-hc&label=Profile%20views&color=0e75b6&style=flat" alt="zak-hc" /> </p>
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="zakaria-h-a28963137" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ma.linkedin.com/in/zakaria-h-a28963137?trk=profile-badge">zakaria H.</a></div>
               
 
